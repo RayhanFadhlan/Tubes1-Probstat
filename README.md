@@ -14,10 +14,9 @@
 - pandas
 - matplotlib
 - Scipy
-= Statsmodel
+- Statsmodel
 
-<!-- CONTACT -->
-## Contact Author
+##  Author
 
 | Nama                  | NIM      |
 | --------------------- | -------- |
